@@ -20,7 +20,7 @@ function Intro() {
         actively seeking opportunities to contribute to and drive innovation in
         software engineering. For further engagement, please visit <br /> {' '} 
         <a
-        href="https://bettayub.github.io/my-personal-website/"   
+        href="https://my-personal-website-sand.vercel.app/"   
         target="_blank"
         className="text-cyan-600 hover:underline
       underline-offset-2 decoration-2
